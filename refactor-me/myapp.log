@@ -1,0 +1,24 @@
+2017-09-26 00:02:53,912 [9] INFO refactor_me.Logger.Logging - Enterted ProductsController Constructor
+2017-09-26 00:02:53,926 [9] INFO refactor_me.Logger.Logging - Initializing ProductService
+2017-09-26 00:02:53,927 [9] INFO refactor_me.Logger.Logging - Initialized ProductService
+2017-09-26 00:02:53,927 [9] INFO refactor_me.Logger.Logging - Initializing ProductOptionService
+2017-09-26 00:02:53,927 [9] INFO refactor_me.Logger.Logging - Initialized ProductOptionService
+2017-09-26 00:02:53,977 [9] INFO refactor_me.Logger.Logging - Calling GET /products
+2017-09-26 00:02:53,977 [9] INFO refactor_me.Logger.Logging - Entered GetProducts()
+2017-09-26 00:02:54,451 [9] INFO refactor_me.Logger.Logging - Exit ProductService:GetProducts()
+2017-09-26 00:02:59,153 [11] INFO refactor_me.Logger.Logging - Enterted ProductsController Constructor
+2017-09-26 00:02:59,153 [11] INFO refactor_me.Logger.Logging - Initializing ProductService
+2017-09-26 00:02:59,153 [11] INFO refactor_me.Logger.Logging - Initialized ProductService
+2017-09-26 00:02:59,153 [11] INFO refactor_me.Logger.Logging - Initializing ProductOptionService
+2017-09-26 00:02:59,153 [11] INFO refactor_me.Logger.Logging - Initialized ProductOptionService
+2017-09-26 00:02:59,176 [11] INFO refactor_me.Logger.Logging - Calling GET /products/{id}/options
+2017-09-26 00:02:59,178 [11] INFO refactor_me.Logger.Logging - Entered ProductOptionService:GetOptions(Guid productId)
+2017-09-26 00:02:59,282 [11] INFO refactor_me.Logger.Logging - Exit ProductOptionService:GetOptions(Guid productId)
+2017-09-28 20:33:27,828 [7] INFO refactor_me.Logger.Logging - Enterted ProductsController Constructor
+2017-09-28 20:33:27,843 [7] INFO refactor_me.Logger.Logging - Initializing ProductService
+2017-09-28 20:33:27,843 [7] INFO refactor_me.Logger.Logging - Initialized ProductService
+2017-09-28 20:33:27,843 [7] INFO refactor_me.Logger.Logging - Initializing ProductOptionService
+2017-09-28 20:33:27,843 [7] INFO refactor_me.Logger.Logging - Initialized ProductOptionService
+2017-09-28 20:33:27,918 [7] INFO refactor_me.Logger.Logging - Calling GET /products
+2017-09-28 20:33:27,918 [7] INFO refactor_me.Logger.Logging - Entered GetProducts()
+2017-09-28 20:33:43,250 [7] INFO refactor_me.Logger.Logging - Exit ProductService:GetProducts()
